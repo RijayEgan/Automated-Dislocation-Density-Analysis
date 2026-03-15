@@ -1,1 +1,1 @@
-![Pipeline diagram](automated-dislocation-density-analysis-pipeline.svg)
+![Pipeline diagram](dislocation-pipeline.svg)
